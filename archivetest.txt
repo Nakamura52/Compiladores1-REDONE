@@ -1,0 +1,9 @@
+var
+ x, y, z: integer;
+ w:real
+if x+y then x:=z
+
+var
+ a, b, c: integer;
+ d:real
+if a+b then a:=c
